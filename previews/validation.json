@@ -1,0 +1,58 @@
+{
+  "desktop": {
+    "images": 7,
+    "cardRatios": [
+      0.625008835795575,
+      0.625008835795575,
+      0.6250353406841956
+    ],
+    "story": "passed",
+    "privacy": "passed",
+    "internalLinks": "passed"
+  },
+  "widths": [
+    {
+      "width": 320,
+      "overflow": false,
+      "menu": "passed"
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "menu": "passed"
+    },
+    {
+      "width": 560,
+      "overflow": false,
+      "menu": "passed"
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "menu": "passed"
+    },
+    {
+      "width": 860,
+      "overflow": false,
+      "menu": "passed"
+    },
+    {
+      "width": 861,
+      "overflow": false,
+      "menu": "desktop navigation"
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "menu": "desktop navigation"
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "menu": "desktop navigation"
+    }
+  ],
+  "copyEmail": "passed",
+  "javascriptErrors": [],
+  "externalRequests": []
+}
