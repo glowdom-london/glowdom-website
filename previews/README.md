@@ -44,3 +44,7 @@ Checked in installed Chromium via Playwright on 17 October 2026:
 - With network disabled, loading the HTML content directly into Chromium renders all embedded fonts and images; menu and story interactions pass. Direct file-URL navigation could not be checked because Chromium's environment policy blocks file URLs.
 
 External Instagram/ICO destinations and any future booking, payment or consultation providers were not exercised. No booking/payment/form integrations were added.
+
+## Community refinement
+
+`A Little Glow, Together` is now a compact strip with one short paragraph and an Instagram link, with smaller type and less background padding. See `community-desktop.png` and `community-mobile.png`. Full-page screenshots have been refreshed. The section order remains unchanged pending review of the recommendation. Browser checks confirmed no overflow at 320, 390, 768, 1024 and 1440px; the personal story still expands and collapses, and no uncaught JavaScript errors occurred.

@@ -713,6 +713,16 @@ dl.facts{grid-template-columns:auto minmax(0,1fr)}
  footer .btn{font-size:.68rem}
 }
 
+/* A smaller community moment between the main information sections. */
+.community-small{padding-block:44px}
+.community-row{display:grid;grid-template-columns:1.35fr .65fr;gap:48px;align-items:center}
+.community-copy{display:grid;gap:14px}
+.community-small h2{font-size:2.5rem;line-height:1.15}
+.community-small p:not(.eyebrow){font-size:1.1rem;line-height:1.55;max-width:36em}
+.community-social{border-left:1px solid var(--line);padding-left:32px;display:grid;gap:16px}
+.community-social .link{justify-self:start}
+@media(max-width:860px){.community-small{padding-block:32px}.community-row{grid-template-columns:1fr;gap:22px}.community-small h2{font-size:2.1rem}.community-social{border-left:0;border-top:1px solid var(--line);padding:20px 0 0}}
+
 </style>
 </head>
 <body>
@@ -932,21 +942,16 @@ dl.facts{grid-template-columns:auto minmax(0,1fr)}
     </div>
   </section>
 
-  <section class="band blush">
-    <div class="wrap">
-      <p class="eyebrow">A shared moment of calm</p>
-      <h2>A Little Glow, Together</h2>
-      <div class="comm">
-        <div>
-          <p class="lede">There's something special about being part of a local community.</p>
-          <p>Step away from busy schedules, meet new faces and enjoy a little time for yourself. In-person classes take place in East Sheen; online classes are coming soon.</p>
-          <p>Small classes, a welcoming atmosphere and a shared belief that a little self-care can go a long way.</p>
-        </div>
-        <div>
-          <p class="big">@glowdom.london</p>
-          <p>Follow on Instagram for class dates, short routines to try at home and news about online classes.</p>
-          <a class="link" href="https://instagram.com/glowdom.london" target="_blank" rel="noopener" style="justify-self:start">Follow on Instagram</a>
-        </div>
+  <section class="band blush community-small" id="community">
+    <div class="wrap community-row">
+      <div class="community-copy">
+        <p class="eyebrow">A shared moment of calm</p>
+        <h2>A Little Glow, Together</h2>
+        <p>A welcoming space to meet new faces, share a little laughter and make time for yourself.</p>
+      </div>
+      <div class="community-social">
+        <p>Class news, simple routines and a little everyday inspiration.</p>
+        <a class="link" href="https://instagram.com/glowdom.london" target="_blank" rel="noopener">Follow @glowdom.london</a>
       </div>
     </div>
   </section>
