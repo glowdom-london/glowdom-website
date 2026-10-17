@@ -48,3 +48,14 @@ External Instagram/ICO destinations and any future booking, payment or consultat
 ## Community refinement
 
 `A Little Glow, Together` is now a compact strip with one short paragraph and an Instagram link, with smaller type and less background padding. See `community-desktop.png` and `community-mobile.png`. Full-page screenshots have been refreshed. The section order remains unchanged pending review of the recommendation. Browser checks confirmed no overflow at 320, 390, 768, 1024 and 1440px; the personal story still expands and collapses, and no uncaught JavaScript errors occurred.
+
+## Latest full-preview refinements
+
+The agreed order is now implemented: hero, introduction cards, What is Face Yoga?, Who is Face Yoga For?, Meet Gül, A Class Made for You, class options, Health & Wellbeing, community, contact, policies. Approved lighter sage buttons, reference-matched fan rays, compact spacing and enlarged class icons are integrated into the full preview.
+
+- `information-sections.png`: the face, group and botanical decorative drawings in the three information sections.
+- `contact-and-policies.png`: the compact contact and policy bands, with envelope, Instagram camera and location-pin icons.
+- `class-options.png`: the circular Glowdom logo replaces the previous arched silhouette graphic. The artwork reuses the exact circular logo embedded in the original site, matching the supplied no-strapline logo design. The new high-resolution attachments are not separately imported.
+- Individual section screenshots and mobile contact/policy screenshots are also available beside these files.
+
+All original photographs remain intact. The complete policy HTML and pending privacy requirements are unchanged. Updated browser validation covers the agreed order, eight loaded images, three decorative drawings, three contact icons, 5:8 arches, fan decoration, story/menu/privacy interactions, internal anchors, email copying and overflow checks at eight widths from 320px to 1440px. No uncaught JavaScript errors or external rendering requests occurred. Screenshots were visually reviewed at desktop and mobile sizes. `main` and the original HTML remain untouched; no public website deployment is configured.

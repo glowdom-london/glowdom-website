@@ -1,58 +1,40 @@
 {
-  "desktop": {
-    "images": 7,
-    "cardRatios": [
-      0.625008835795575,
-      0.625008835795575,
-      0.6250353406841956
-    ],
-    "story": "passed",
-    "privacy": "passed",
-    "internalLinks": "passed"
-  },
-  "widths": [
-    {
-      "width": 320,
-      "overflow": false,
-      "menu": "passed"
-    },
-    {
-      "width": 390,
-      "overflow": false,
-      "menu": "passed"
-    },
-    {
-      "width": 560,
-      "overflow": false,
-      "menu": "passed"
-    },
-    {
-      "width": 768,
-      "overflow": false,
-      "menu": "passed"
-    },
-    {
-      "width": 860,
-      "overflow": false,
-      "menu": "passed"
-    },
-    {
-      "width": 861,
-      "overflow": false,
-      "menu": "desktop navigation"
-    },
-    {
-      "width": 1024,
-      "overflow": false,
-      "menu": "desktop navigation"
-    },
-    {
-      "width": 1440,
-      "overflow": false,
-      "menu": "desktop navigation"
-    }
+  "sectionOrder": [
+    "What is Face Yoga?",
+    "Who is Face Yoga For?",
+    "Meet Gül",
+    "A Class Made for You",
+    "Choose Your Glowdom Experience",
+    "Health & Wellbeing",
+    "A Little Glow, Together",
+    "Let's Glow Together",
+    "Policies"
   ],
+  "imagesLoaded": 8,
+  "archRatio": "5:8",
+  "referenceFanStrokes": 30,
+  "topicDrawings": 3,
+  "contactIcons": 3,
+  "classLogo": "matches original circular logo",
+  "story": "passed",
+  "policyDisclosures": "passed; pending details retained",
   "copyEmail": "passed",
+  "internalLinks": "passed",
+  "noOverflowAt": [
+    320,
+    390,
+    560,
+    768,
+    860,
+    861,
+    1024,
+    1440
+  ],
+  "mobileNavigation": "passed at all mobile widths",
+  "compactSectionHeights": {
+    "contact": 278.78125,
+    "policies": 163.5
+  },
   "javascriptErrors": [],
   "externalRequests": []
 }
