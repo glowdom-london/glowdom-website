@@ -14,12 +14,14 @@ These are isolated samples of the three sections in the supplied references. `Gl
 
 ## Proposed adjustments
 
-Nine alternating fine rays follow the upper-right curve of each arch, with cream rays on sage cards and muted rose rays on the blush card. The photographs and 5:8 arch proportions are preserved.
+Nine alternating fine rays sit closer together and closer to the frame, following the upper-right curve of each arch, with cream rays on sage cards and muted rose rays on the blush card. The photographs and 5:8 arch proportions are preserved.
 
 Section padding is reduced from up to 100px to 40px on desktop and 32px on mobile. Section headings are 42.4px on desktop, reduced from up to 56px. Body text is 17px in the sample. Class icons are 80px instead of 44px. On mobile the class steps use a compact horizontal layout, with the enlarged icon alongside the text.
 
-Button colours: A sage `#59674F`, B sage outline `#53634E` on cream, C muted plum `#76576F`.
+Button colours: A sage `#66745C`, B sage outline `#53634E` on cream, C muted plum `#76576F`.
 
 ## Checks
 
 Chromium browser checks passed for all three colour selections, all embedded images, 27 curved ray lines, 5:8 card arches and 80px class icons. No horizontal overflow at 320, 390, 768, 1024 or 1440px. No uncaught JavaScript errors or external rendering requests. Desktop and mobile screenshots were visually reviewed.
+
+Review adjustment: sage lightened from `#59674F` to `#66745C`. Cream text contrast is 4.62:1. Ray spread reduced from 80° to 64°, with shorter strokes and a smaller gap to the arch. These changes apply only to the review samples.
