@@ -8,13 +8,14 @@ These are isolated samples of the three sections in the supplied references. `Gl
 - `sage-layout.png`: proposed spacing, typography, arch decoration and icon size with sage buttons.
 - `outline-layout.png`: the same sample with sage-outline buttons.
 - `plum-layout.png`: the same sample with muted-plum buttons.
+- `rays-close-up.png`: close-up of the reference-matched fan decoration.
 - `mobile-layout.png`: compact mobile sample with sage buttons.
 
 `Glowdom-options.html` is self-contained. Its three colour buttons update the sample enquiry button; they do not modify the main preview. Introductory-card links are display samples only in this partial-page mockup. Serve from the repository root and request `/previews/options/Glowdom-options.html` to try it locally.
 
 ## Proposed adjustments
 
-Nine alternating fine rays sit closer together and closer to the frame, following the upper-right curve of each arch, with cream rays on sage cards and muted rose rays on the blush card. The photographs and 5:8 arch proportions are preserved.
+Ten fine rays form a compact fan at the upper-right of each arch, with cream rays on sage cards and muted rose rays on the blush card. The photographs and 5:8 arch proportions are preserved.
 
 Section padding is reduced from up to 100px to 40px on desktop and 32px on mobile. Section headings are 42.4px on desktop, reduced from up to 56px. Body text is 17px in the sample. Class icons are 80px instead of 44px. On mobile the class steps use a compact horizontal layout, with the enlarged icon alongside the text.
 
@@ -22,6 +23,8 @@ Button colours: A sage `#66745C`, B sage outline `#53634E` on cream, C muted plu
 
 ## Checks
 
-Chromium browser checks passed for all three colour selections, all embedded images, 27 curved ray lines, 5:8 card arches and 80px class icons. No horizontal overflow at 320, 390, 768, 1024 or 1440px. No uncaught JavaScript errors or external rendering requests. Desktop and mobile screenshots were visually reviewed.
+Chromium browser checks passed for all three colour selections, all embedded images, 30 fan ray lines, 5:8 card arches and 80px class icons. No horizontal overflow at 320, 390, 768, 1024 or 1440px. No uncaught JavaScript errors or external rendering requests. Desktop and mobile screenshots were visually reviewed.
 
-Review adjustment: sage lightened from `#59674F` to `#66745C`. Cream text contrast is 4.62:1. Ray spread reduced from 80° to 64°, with shorter strokes and a smaller gap to the arch. These changes apply only to the review samples.
+Review adjustment: sage lightened from `#59674F` to `#66745C`. Cream text contrast is 4.62:1. These changes apply only to the review samples.
+
+Reference correction: the rays are a small upper-right fan, with a long–short–short rhythm and varied directions, matching the supplied close-up. They no longer form a regular arc around the photograph. Ten strokes per frame; lighter sage retained.
