@@ -1,4 +1,7 @@
 {
+  "homepage": "HTTP 200 at /",
+  "preview": "HTTP 200; same approved design",
+  "designVersion": "botanical-star-refinements",
   "sectionOrder": [
     "What is Face Yoga?",
     "Who is Face Yoga For?",
@@ -10,16 +13,20 @@
     "Let's Glow Together",
     "Policies"
   ],
-  "imagesLoaded": 8,
-  "archRatio": "5:8",
-  "referenceFanStrokes": 30,
-  "topicDrawings": 3,
-  "contactIcons": 3,
-  "classLogo": "matches original circular logo",
+  "originalImagesLoaded": 8,
+  "botanicalBackgrounds": 3,
+  "unfilledLeafSprigs": 15,
+  "midribs": "one per leaf; no lateral veins",
+  "fadedStars": 37,
+  "softSweep": 1,
+  "standaloneTopicIcons": 0,
+  "cardArches": "5:8",
+  "fanStrokes": 30,
   "story": "passed",
-  "policyDisclosures": "passed; pending details retained",
+  "policies": "passed; pending details retained",
   "copyEmail": "passed",
-  "internalLinks": "passed",
+  "internalAnchors": "passed",
+  "mobileNavigation": "passed",
   "noOverflowAt": [
     320,
     390,
@@ -30,11 +37,6 @@
     1024,
     1440
   ],
-  "mobileNavigation": "passed at all mobile widths",
-  "compactSectionHeights": {
-    "contact": 278.78125,
-    "policies": 163.5
-  },
   "javascriptErrors": [],
-  "externalRequests": []
+  "externalRenderingRequests": []
 }

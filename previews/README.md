@@ -59,3 +59,11 @@ The agreed order is now implemented: hero, introduction cards, What is Face Yoga
 - Individual section screenshots and mobile contact/policy screenshots are also available beside these files.
 
 All original photographs remain intact. The complete policy HTML and pending privacy requirements are unchanged. Updated browser validation covers the agreed order, eight loaded images, three decorative drawings, three contact icons, 5:8 arches, fan decoration, story/menu/privacy interactions, internal anchors, email copying and overflow checks at eight widths from 320px to 1440px. No uncaught JavaScript errors or external rendering requests occurred. Screenshots were visually reviewed at desktop and mobile sizes. `main` and the original HTML remain untouched; no public website deployment is configured.
+
+## Approved botanical and star designs implemented
+
+The final approved visual directions are now actual HTML/SVG/CSS in the page, rather than image mockups. The three information sections use background botanical sprigs: unfilled leaves with a single, lighter central vein and sage from the logo palette. The rejected standalone drawings are removed. The class logo is surrounded by 37 softly faded, unevenly spaced stars and a tapered crescent sweep. The original logo artwork is retained; its outer disc is cropped in CSS in this section so its fine rays and soft decoration sit on the cream ground. Header branding remains unchanged.
+
+`index.html` is the homepage and is kept byte-for-byte identical to `Glowdom-preview.html`. `.nojekyll` enables direct static publishing. The source includes a `botanical-star-refinements` design marker for deployment verification. Full desktop/mobile screenshots and the individual information/class section images are refreshed. The domain's remaining IONOS/GitHub settings are described in `DOMAIN-SETUP.md`. The assistant has not changed the custom-domain setting or IONOS records; the account owner completes the documented GitHub/IONOS settings together.
+
+Browser checks in `validation.json` cover both the root homepage and existing preview URL, the approved order, embedded images, botanical backgrounds, star frame, 5:8 card arches, story, menu, policy disclosures, copy-email interaction and responsive overflow at eight widths. Existing pending privacy details are preserved for the owner to complete.
