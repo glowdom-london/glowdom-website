@@ -50,6 +50,7 @@
   "leafContainment": "frame fitted fully to each introduction panel without cover cropping",
   "iconStroke": "same mauve and matching rendered line weight as other icons",
   "screenshots": "Desktop/mobile full-page and affected sections refreshed successfully",
-  "botanicalComposition": "reference-image-derived transparent botanical frame applied to three introduction panels; separate branch drawing removed",
-  "smallStarSizes": "mixed 4–7 SVG units with varied opacity"
+  "botanicalComposition": "approved thinner reference frame applied to three introduction panels; separate branch drawing removed",
+  "smallStarSizes": "mixed 4–7 SVG units with varied opacity",
+  "releaseChecks": "eight widths, loaded images, internal anchors, story, mobile navigation, email copy, prices and policy interactions passed"
 }
