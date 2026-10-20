@@ -7,14 +7,14 @@ This branch is for review only. GitHub Pages remains on `design/gentle-refinemen
 - Small Group Class: £20 introductory price, replacing £15. The £80 one-to-one price is unchanged.
 - Class enquiries panel: the existing soft sage green from the logo palette (`#E7E8DF`), replacing blush. Dark text and the sage enquiry button are retained.
 
-## Revised after visual feedback
+## Revised using the selected botanical reference
 
-- Replaced the thin ring with a loose, layered crescent brush shape following the earlier star-frame reference. The five main stars are joined by 13 satellite stars in the same sage palette. The satellite stars are now 1.9 times their previous size and more visible at 78% opacity.
-- Outer leaf branches now have smaller canvases, generous section insets and no rotations that cross the section edges. Leaf SVG bounds are checked against their containing section at all eight viewport widths. Replaced the row of three plants with one winding, asymmetrical botanical composition with twenty leaves and branching stems beneath the introduction. Corner twigs have also been redrawn with curved branches and varied leaf angles, following the supplied botanical reference. The leaf interiors remain unfilled with just one central vein.
-- Shortened the introduction and list; practical questions are now four expandable answers so the page shows less text initially.
-- Replaced the small profile icon in Face Workout with line artwork tracing the supplied swept-hair face drawing, in the existing mauve palette, with the rendered stroke weight matched to the other four icons.
-- Renamed Self-Massage to Face Massage and shortened its description. Removed only the swept eyelash stroke marked in the close-up; the rest of the face illustration is unchanged.
-- Group panel remains soft sage and £20; One-to-One remains blush pink and £80.
+- Removed the rejected large branch and all individual SVG sprigs.
+- Created a transparent leaf frame from the supplied portrait botanical reference. Applied that frame around the left introduction panel of What is Face Yoga?, Who is Face Yoga For? and Health & Wellbeing. The text remains live HTML; the reference's sample text is not part of the image.
+- The frame uses a CSS mask in the existing sage `#D4D3C7`, faded at 52% opacity. It fits each panel in full; no `cover` cropping is used. The source asset is `assets/botanical-reference-frame.png` and is embedded in the standalone HTML.
+- Kept the crescent frame and added a less regular mixture of stars: five existing main accents and 23 irregular satellites, mixing four-point sparkles and fine eight-point stars like the circled example.
+- The approved Face Workout icon is unchanged, with matching mauve colour and rendered stroke weight and no eyelash.
+- Group panel remains soft sage and £20; One-to-One remains blush pink and £80. The practical questions remain expandable.
 
 ## Whole-page review
 
