@@ -9,11 +9,11 @@ This branch is for review only. GitHub Pages remains on `design/gentle-refinemen
 
 ## Revised after visual feedback
 
-- Replaced the thin ring with a loose, layered crescent brush shape following the earlier star-frame reference. The five main stars are joined by 13 small, softly faded stars in the same sage palette.
-- Outer leaf branches now have smaller canvases, generous section insets and no rotations that cross the section edges. Leaf SVG bounds are checked against their containing section at all eight viewport widths. Added three complete branches to the open space below the “Who is Face Yoga For?” introduction. The leaf interiors remain unfilled with just one central vein.
+- Replaced the thin ring with a loose, layered crescent brush shape following the earlier star-frame reference. The five main stars are joined by 13 satellite stars in the same sage palette. The satellite stars are now 1.9 times their previous size and more visible at 78% opacity.
+- Outer leaf branches now have smaller canvases, generous section insets and no rotations that cross the section edges. Leaf SVG bounds are checked against their containing section at all eight viewport widths. Replaced the row of three plants with one winding, asymmetrical botanical composition with twenty leaves and branching stems beneath the introduction. Corner twigs have also been redrawn with curved branches and varied leaf angles, following the supplied botanical reference. The leaf interiors remain unfilled with just one central vein.
 - Shortened the introduction and list; practical questions are now four expandable answers so the page shows less text initially.
 - Replaced the small profile icon in Face Workout with line artwork tracing the supplied swept-hair face drawing, in the existing mauve palette, with the rendered stroke weight matched to the other four icons.
-- Renamed Self-Massage to Face Massage and shortened its description.
+- Renamed Self-Massage to Face Massage and shortened its description. Removed only the swept eyelash stroke marked in the close-up; the rest of the face illustration is unchanged.
 - Group panel remains soft sage and £20; One-to-One remains blush pink and £80.
 
 ## Whole-page review
