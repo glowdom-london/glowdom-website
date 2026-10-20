@@ -7,9 +7,13 @@ This branch is for review only. GitHub Pages remains on `design/gentle-refinemen
 - Small Group Class: £20 introductory price, replacing £15. The £80 one-to-one price is unchanged.
 - Class enquiries panel: the existing soft sage green from the logo palette (`#E7E8DF`), replacing blush. Dark text and the sage enquiry button are retained.
 
-## Artwork still needed
+## Artwork and panel revisions
 
-The new leaf and star-frame references mentioned in the request were not attached. The existing artwork remains temporarily in these screenshots; it is not a proposed replacement. Once the references are uploaded, match them to the cream, sage and blush palette, then provide updated screenshots before any publication.
+Following the supplied screenshot references, the decorative SVG artwork has been redrawn with slender, unfilled botanical leaves and one fine central vein per leaf. The sage linework is faded behind the content and kept around the section edges. It is an adaptation of the reference style, rather than an embedded screenshot with its sample text.
+
+The logo frame now has five softly faded, unevenly spaced stars and a fine, lightly layered crescent sweep. The original embedded logo and its rays remain intact. Decoration uses the existing sage palette.
+
+The One-to-One Session panel is now blush pink (`#F3E6E8`); the group-class panel remains soft sage green (`#E7E8DF`). Prices remain £20 for a group class and £80 for a one-to-one session.
 
 ## Whole-page review
 
