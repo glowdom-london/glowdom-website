@@ -7,23 +7,24 @@ This branch is for review only. GitHub Pages remains on `design/gentle-refinemen
 - Small Group Class: £20 introductory price, replacing £15. The £80 one-to-one price is unchanged.
 - Class enquiries panel: the existing soft sage green from the logo palette (`#E7E8DF`), replacing blush. Dark text and the sage enquiry button are retained.
 
-## Artwork and panel revisions
+## Revised after visual feedback
 
-Following the supplied screenshot references, the decorative SVG artwork has been redrawn with slender, unfilled botanical leaves and one fine central vein per leaf. The sage linework is faded behind the content and kept around the section edges. It is an adaptation of the reference style, rather than an embedded screenshot with its sample text.
-
-The logo frame now has five softly faded, unevenly spaced stars and a fine, lightly layered crescent sweep. The original embedded logo and its rays remain intact. Decoration uses the existing sage palette.
-
-The One-to-One Session panel is now blush pink (`#F3E6E8`); the group-class panel remains soft sage green (`#E7E8DF`). Prices remain £20 for a group class and £80 for a one-to-one session.
+- Replaced the thin ring with a loose, layered crescent brush shape following the earlier star-frame reference. Five stars remain, with two larger accents and three smaller companions, in faded sage.
+- Leaf branches now have a padded SVG canvas and sit inside the section rather than outside its edges. Added three complete branches to the open space below the “Who is Face Yoga For?” introduction. The leaf interiors remain unfilled with just one central vein.
+- Shortened the introduction and list; practical questions are now four expandable answers so the page shows less text initially.
+- Replaced the small profile icon in Face Workout with line artwork tracing the supplied swept-hair face drawing, in the existing mauve palette.
+- Renamed Self-Massage to Face Massage and shortened its description.
+- Group panel remains soft sage and £20; One-to-One remains blush pink and £80.
 
 ## Whole-page review
 
 Reviewed the full-page desktop and mobile renders. Browser checks passed at 320, 390, 560, 768, 860, 861, 1024 and 1440 pixels with no horizontal overflow or JavaScript errors. All eight embedded images loaded; tall 5:8 introductory arches and section order are preserved. The expandable story, mobile menu, internal links, email-copy button and policy accordions work. No checkout, payment provider or external rendering request was introduced. Standalone and embedded Privacy Notice layouts also passed at 320, 390, 768 and 1440 pixels.
 
-## Copy recommendations for your review
+## Copy review
 
-- The Botox/fillers paragraph gives a fixed two-week interval and says face yoga may make treatment effects fade sooner. Recommend replacing this with: “After Botox, fillers or another cosmetic treatment, follow your treating practitioner’s advice about when to resume facial exercise and massage.” The current paragraph remains unchanged pending review.
-- Add a short general instruction to stop any exercise that causes pain or discomfort; the current injuries text addresses comfort but does not state this clearly for everyone.
-- Dates are consistently enquiry-based and online classes remain coming soon. The 48-hour group cancellation policy and £80 private-session price remain as before.
+The Botox/fillers answer now advises following the treating practitioner's guidance instead of giving a fixed two-week interval or claiming treatment effects fade sooner. The pregnancy answer advises checking with a doctor or midwife when unsure, and discussing participation needs privately during consultation.
+
+Dates remain enquiry-based, online classes are coming soon, and booking/cancellation terms are unchanged. The Privacy Notice wording is unchanged.
 
 ## Privacy Notice review
 
