@@ -5,7 +5,7 @@
   "sectionOrder": [
     "What is Face Yoga?",
     "Who is Face Yoga For?",
-    "Meet Gül",
+    "Meet G\u00fcl",
     "A Class Made for You",
     "Choose Your Glowdom Experience",
     "Health & Wellbeing",
@@ -17,16 +17,16 @@
   "botanicalBackgrounds": 3,
   "unfilledLeafSprigs": 18,
   "midribs": "one per leaf; no lateral veins",
-  "fadedStars": 5,
+  "fadedStars": 18,
   "softSweep": 1,
   "standaloneTopicIcons": 0,
   "cardArches": "5:8",
   "fanStrokes": 30,
   "story": "passed",
   "policies": "opens and closes; completed notice present",
-  "groupPrice": "£20 introductory",
+  "groupPrice": "\u00a320 introductory",
   "classPanel": "soft sage #E7E8DF",
-  "artwork": "layered painted crescent, five stars, complete leaf branches and botanical garden below introduction",
+  "artwork": "layered crescent, five main stars plus thirteen tiny stars, complete inset leaf branches",
   "practicalAnswers": "four tested expandable answers",
   "faceWorkoutIcon": "supplied swept-hair face redrawn in palette mauve",
   "massageHeading": "Face Massage",
@@ -45,5 +45,9 @@
     1440
   ],
   "javascriptErrors": [],
-  "externalRenderingRequests": []
+  "externalRenderingRequests": [],
+  "smallStars": 13,
+  "leafContainment": "all visible leaf SVG bounds inside sections at 320,390,560,768,860,861,1024,1440px",
+  "iconStroke": "same mauve and matching rendered line weight as other icons",
+  "screenshots": "Desktop/mobile full-page and affected sections refreshed successfully"
 }
